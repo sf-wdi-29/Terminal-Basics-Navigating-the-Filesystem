@@ -20,6 +20,7 @@ Market: SF
 - Issue one or more commands on the command line
 - Be comfortable navigating between folders on the command line
 - Take a look at some simple keyboard shortcuts to practice: [CLI Shortcuts](https://gist.github.com/alexpchin/01caa027b825d5f98871)
+
 ---
 ##  Intro
 <details>
