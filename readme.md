@@ -381,11 +381,11 @@ So, 755 in UNIX permissions means 'I don't mind if other people read or run this
 
 ## Customize The terminal - Demo
 
-#### When using bashrc
+#### When using bash_profile
 
-When a terminal session starts, there are some configurations read at the start of the session. The configuration is written in a file that has a specific name. As we run `bash`, the file name for this type of shell is called `.bashrc` and is located in the user folder, so every user for the same machine can have different configurations. `rc` stands for "Run Control" and is an old Unix convention.
+When a terminal session starts, there are some configurations read at the start of the session. The configuration is written in a file that has a specific name. As we run `bash`, the file name for this type of shell is called `.bash_profile` and is located in the user folder, so every user for the same machine can have different configurations. `rc` stands for "Run Control" and is an old Unix convention.
 
-If you open the file `.bashrc` using the command `subl ~/.bashrc`, you'll see your own config file for bash.
+If you open the file `.bash_profile` using the command `subl ~/.bash_profile`, you'll see your own config file for bash.
 
 You can add code to this file and it will be parsed and/or executed every time you open a new window/tab.  You can add custom commands, aliases, redefine your path etc.
 
@@ -471,7 +471,7 @@ Now every new terminal session will include the commands (executable files) in t
 
 The orders of the folders in the path matters. For example, in the path above, if there is one executable file called `wdi` in the folder `/a/b/c` and another one with the same name in the folder `/usr/local/bin`, then the one executed when the command `wdi` is invoked and will be the command in the folder `/a/b/c` because of the precedence in the path.
 
-## Get comfortable with your `subl ~/.bashrc`
+## Get comfortable with your `subl ~/.bash_profile`
 
 
 
