@@ -27,6 +27,7 @@ Market: SF
   <summary>What is a GUI (pronounced gooey)?</summary>
   <p>There was a time when computers didn't come with a Graphical User Interface (GUI). Instead, everyone interacted with the computer using text commands in what we call a Command Line Interface (CLI).</p>
 </details>
+<br>
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/FreeDOS_Beta_9_pre-release5_%28command_line_interface%29_on_Bochs_sshot20040912.png" alt="Terminal">
 
