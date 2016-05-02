@@ -481,7 +481,7 @@ Now every new terminal session will include the commands (executable files) in t
 
 The orders of the folders in the path matters. For example, in the path above, if there is one executable file called `wdi` in the folder `/a/b/c` and another one with the same name in the folder `/usr/local/bin`, then the one executed when the command `wdi` is invoked and will be the command in the folder `/a/b/c` because of the precedence in the path.
 
-## Get comfortable with your `subl ~/.bash_profile`
+Get comfortable with your `~/.bash_profile`
 
 
 
