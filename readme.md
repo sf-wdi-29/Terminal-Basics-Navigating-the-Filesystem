@@ -6,16 +6,25 @@ Market: SF
 
 # Terminal Basics + Navigating the Filesystem
 
-## Objectives
-*After this lesson, students will be able to:*
+## Why is this important?
+*This workshop is relevant to developers because:*
+
+- You will be using your terminal every day as a developer.
+- It will help you understand your Operating System better.
+
+## What are the objectives?
+<!-- specific/measurable goal for students to achieve -->
+*After this workshop, developers will be able to:*
 
 - Summarize a basic filesystem structure, including absolute and relative paths
 - Use the most common commands to navigate and modify files / directories via the Terminal window (`cd`, `pwd`, `mkdir`, `rm -r`, `mv`, `cp`, `touch`)
 - Describe a basic UNIX permissions system
 - Differentiate between navigating the file system using the CLI vs. the GUI
 
-## Preparation
-*Before this lesson, students should already be able to:*
+## Where should we be now?
+<!-- call out the skills that are prerequisites -->
+*Before this workshop, developers should already be able to:*
+
 - Open the terminal
 - Issue one or more commands on the command line
 - Be comfortable navigating between folders on the command line
@@ -476,6 +485,6 @@ The orders of the folders in the path matters. For example, in the path above, i
 
 
 
-## Conclusion
+## Closing Thoughts
 
 We will use the command line several hours every day, because is makes all files and folders manipulations more easy. A lot of softwares programs that we will use during the course also only have a CLI interface and can only be used with commands. Always remember that every action you'll do in a GUI can be done in the CLI.
