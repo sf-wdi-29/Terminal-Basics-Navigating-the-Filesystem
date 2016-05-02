@@ -491,4 +491,4 @@ We will use the command line several hours every day, because is makes all files
 
 
 ## Meta Skills
-Click [here](https://github.com/sf-wdi-29/meta-skills) to go to the meta-skills page. 
+Click [here](https://github.com/sf-wdi-29/resources/blob/master/meta-skills.md) to go to the meta-skills page. 
