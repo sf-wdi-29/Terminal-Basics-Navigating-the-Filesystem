@@ -155,7 +155,7 @@ By the way, your terminal is located in:
 
 The tilde `~` character is an alias to your home directory. Use it to quickly return home.
 
-```
+```bash
 cd ~/
 ```
 
@@ -246,7 +246,7 @@ Thinking about this command with relative and absolute paths:
 
 Finally, we can rename and move files and folders with this syntax:
 
-```
+```bash
 mv file-name file-name2
 ```
 
@@ -321,19 +321,19 @@ If you change the present working directory to the root (`cd /`) and then show t
 
 The second column corresponds to the permissions details for each file/folder. For the first line:
 
-```
+```bash
 drwxrwxr-x+
 ```
 We're not going to talk about the `d` letter at the start or the `+` at the end of each line for the moment. Just pay attention to the nine letters between.
 
 The important part in this set of characters is:
 
-```
+```bash
 rwxrwxr-x
 ```
 
 This can be read:
-```
+```bash
 rwx rwx r-x
 ```
 This breaks down like this:
@@ -350,13 +350,13 @@ Only the owner of a file may use chmod to alter a file's permissions.
 
 chmod has the following syntax:
 
-```
+```bash
 chmod [options] mode file(s)
 ```
 
 The 'mode' part specifies the new permissions for the file(s) that follow as arguments. A mode specifies which user's permissions should be changed, and afterwards which access types should be changed. Let's say for example:
 
-```
+```bash
 chmod a-x file.txt
 ```
 
