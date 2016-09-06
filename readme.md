@@ -39,7 +39,7 @@ Market: SF
 <br>
 <figure>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/FreeDOS_Beta_9_pre-release5_%28command_line_interface%29_on_Bochs_sshot20040912.png" alt="Terminal">
-
+  <br>
   <figcaption>Image from Wikimedia</figcaption>
 </figure>
 <br>
@@ -49,8 +49,7 @@ Today, the command line still exists, even though you may have never seen it as 
 <details>
   <summary>What is a shell?</summary>
   <p>A shell is simply a type of command line program, which contains a very simple, text-based user interface enabling us to access all of an operating system's services. It is, very simply, a program that accepts text as input and translates that text into the appropriate functions that you want your computer to run.
-  *Taken from Just for fun: [Type like a hacker](http://hackertyper.com/)*
-</p>
+  </p>
 </details>
 
 ---
@@ -82,7 +81,7 @@ Notice that you can actually hit enter as soon as the field autocompletes. Get u
 
 ---
 
-## Paths - Catch Up
+## Paths
 
 Every file or folder in a file system can be read, written, and deleted by referencing its position inside the filesystem. When we talk about the position of a file or a folder in a file system, we refer to its "path". There are a couple of different kinds of paths we can use to refer to a file – **absolute paths** and **relative paths**.
 
