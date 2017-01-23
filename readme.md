@@ -392,7 +392,7 @@ So, 755 in UNIX permissions means 'I don't mind if other people read or run this
 
 #### When using bash_profile
 
-When a terminal session starts, there are some configurations read at the start of the session. The configuration is written in a file that has a specific name. As we run `bash`, the file name for this type of shell is called `.bash_profile` and is located in the user folder, so every user for the same machine can have different configurations. `rc` stands for "Run Control" and is an old Unix convention.
+When a terminal session starts, there are some configurations read at the start of the session. The configuration is written in a file that has a specific name. As we run `bash`, the file name for this type of shell is called `.bash_profile` and is located in the user folder, so every user for the same machine can have different configurations.
 
 If you open the file `.bash_profile` using the command `subl ~/.bash_profile`, you'll see your own config file for bash.
 
